@@ -1,0 +1,6 @@
+Hello {name},
+
+This is an automated reminder email.
+
+Thank you,
+Automation System
