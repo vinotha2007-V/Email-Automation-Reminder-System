@@ -1,0 +1,18 @@
+email-automation-system/
+│
+├── main.py
+├── scheduler.py
+├── bulk_email.py
+├── reminder.py
+├── contacts.csv
+├── reminders.csv
+├── logs.txt
+├── .env
+├── requirements.txt
+├── README.md
+│
+├── templates/
+│   └── email_template.txt
+│
+└── attachments/
+    └── sample.pdf
