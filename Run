@@ -1,0 +1,13 @@
+Run Project
+Install Dependencies
+Bash
+pip install -r requirements.txt
+Run Single Email
+Bash
+python main.py
+Run Bulk Email
+Bash
+python bulk_email.py
+Run Reminder Scheduler
+Bash
+python scheduler.py
